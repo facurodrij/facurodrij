@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo Joel Rodriguez</h1>
-- 🔭 I’m currently working in [the culmination of my end-of-course project for a degree in Information Systems.](https://github.com/facurodrij/TrabajoFinal_LSI)
+
+- 🔭 I’m currently working in [my end-of-course project for a degree in Information Systems.](https://github.com/facurodrij/TrabajoFinal_LSI)
 
 - 🌱 I’m currently learning **ASP.NET Core MVC, Ethereum, Solidity and English Languaje**
 
