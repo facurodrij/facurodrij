@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in [my end-of-course project for a degree in Information Systems.](https://github.com/facurodrij/TrabajoFinal_LSI)
 
-- 🌱 I’m currently learning **ASP.NET Core MVC, Ethereum, Solidity and English Languaje**
+- 🌱 I’m currently learning **ASP.NET Core MVC, Ethereum, Solidity and English Language**
 
 - 💬 Ask me about **Python, Javascript, Django, Bootstrap, Jquery**
 
