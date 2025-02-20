@@ -4,11 +4,11 @@
 
 <p align="center">
 <a href="mailto:facurodri00@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/facundo-joel-rodriguez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/facundo-joel-rodriguez/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://facurodrij.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </p>
 
-### 🇦🇷 I'm a software developer from Argentina.
+### I'm a software developer from Argentina.
 
 🔭 I’m currently developing the [Repuestos StockCar ERP System](https://github.com/facurodrij/stockcar-gestion). This is a comprehensive billing system integrated with [AFIP](https://www.afip.gob.ar/) that allows for the management of stock, customers, sales, and more functionalities.
 
